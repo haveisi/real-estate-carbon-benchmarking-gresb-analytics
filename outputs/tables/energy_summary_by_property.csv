@@ -1,0 +1,11 @@
+property_id,property_name,annual_electricity_kwh,annual_natural_gas_therms,annual_electricity_cost_usd,annual_gas_cost_usd,months_with_energy_data
+WI-MF-01,Riverbend Apartments,1131188.0,56939.0,164022.23,62632.9,12
+WI-MF-02,Lakeview Terrace,1622015.0,90298.0,235192.16,99327.8,12
+WI-MF-03,Northside Commons,980726.0,45270.0,142205.25,49797.0,12
+WI-MF-04,Badger Ridge Homes,837617.0,45461.0,121454.45999999999,50007.1,12
+WI-MF-05,Oak Street Lofts,642364.0,25318.0,93142.75,27849.8,12
+WI-MF-06,South Park Apartments,1394876.0,77653.0,202257.01,85418.3,12
+WI-MF-07,Fox River Flats,907943.0,38951.0,131651.71,42846.1,12
+WI-MF-08,Prairie View Residences,760039.0,37317.0,110205.61,41048.7,12
+WI-MF-09,Capitol Square Homes,1169146.0,42358.0,169526.15,46593.8,12
+WI-MF-10,Harbor Point Apartments,1120844.0,62399.0,162522.35,68638.9,12

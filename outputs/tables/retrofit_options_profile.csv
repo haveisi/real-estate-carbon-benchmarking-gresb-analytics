@@ -1,0 +1,21 @@
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+property_id,90,10,WI-MF-01,9,,,,,,,
+property_name,90,10,Riverbend Apartments,9,,,,,,,
+city,90,9,Madison,18,,,,,,,
+county,90,9,Dane,18,,,,,,,
+measure_id,90,90,WI-MF-01-M01,1,,,,,,,
+measure_name,90,9,LED common-area lighting retrofit,10,,,,,,,
+category,90,8,Energy efficiency,20,,,,,,,
+capital_cost_usd,90.0,,,,83638.88888888889,59236.252744421625,9000.0,44200.0,64800.0,114075.0,280500.0
+eligible_incentive_usd,90.0,,,,9278.888888888889,8337.804718006142,0.0,3325.0,6550.0,12275.0,33700.0
+annual_electricity_savings_kwh,90.0,,,,17165.6,47976.86762021038,-62448.0,0.0,0.0,14897.75,214106.0
+annual_gas_savings_therms,90.0,,,,1942.0,2506.9654112160597,0.0,0.0,714.5,3130.25,10836.0
+annual_water_savings_gal,90.0,,,,274690.7111111111,583647.526522321,0.0,0.0,0.0,0.0,2722984.0
+annual_cost_savings_usd,90.0,,,,6885.2,6034.3542670467,-977.0,3364.75,4911.0,8550.5,31045.0
+useful_life_years,90.0,,,,10.666666666666666,4.52210550543076,3.0,8.0,10.0,12.0,20.0
+tenant_benefit_score_1_5,90.0,,,,3.4444444444444446,1.0717109193395906,2.0,3.0,3.0,4.0,5.0
+owner_benefit_score_1_5,90.0,,,,4.111111111111111,0.7411567703948487,3.0,4.0,4.0,5.0,5.0
+implementation_difficulty,90,3,Medium,40,,,,,,,
+source_basis,90,8,Focus on Energy Multifamily; Focus on Energy Business Rebates,20,,,,,,,
+data_confidence,90,1,Screening estimate,90,,,,,,,
+notes,90,9,Common-area lighting measure; modeled as electricity savings only.,10,,,,,,,

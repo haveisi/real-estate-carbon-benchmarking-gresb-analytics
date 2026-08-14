@@ -1,0 +1,11 @@
+property_id,property_name,annual_water_gallons,annual_water_cost_usd,annual_sewer_cost_usd,months_with_water_data,annual_total_water_sewer_cost_usd
+WI-MF-01,Riverbend Apartments,10522523.0,46404.35,56348.11,12,102752.45999999999
+WI-MF-02,Lakeview Terrace,16912945.0,79558.5,96606.74,12,176165.24
+WI-MF-03,Northside Commons,9183536.0,37799.44,45899.32,12,83698.76000000001
+WI-MF-04,Badger Ridge Homes,8202206.0,32382.31,39321.36,12,71703.67
+WI-MF-05,Oak Street Lofts,5193150.0,20938.79,25425.67,12,46364.46
+WI-MF-06,South Park Apartments,14619915.0,66315.92,80526.49,12,146842.41
+WI-MF-07,Fox River Flats,7690698.0,31331.91,38045.88,12,69377.79
+WI-MF-08,Prairie View Residences,6879158.0,27447.84,33329.51,12,60777.350000000006
+WI-MF-09,Capitol Square Homes,8707887.0,38401.79,46630.74,12,85032.53
+WI-MF-10,Harbor Point Apartments,11839474.0,53206.6,64608.01,12,117814.61

@@ -1,0 +1,11 @@
+category,benchmark_metric,record_count
+Data quality,Good annual utility data coverage,1
+Data quality,Minimum usable annual utility data coverage,1
+Energy,National median Site EUI,1
+Energy,National median Source EUI,1
+GHG,Internal GHG intensity target,1
+Internal target,Good performance target Site EUI,1
+Internal threshold,Weak performance threshold Site EUI,1
+Reference,Peer comparison reference data source,1
+Waste,Internal waste diversion target,1
+Water,Internal water intensity target,1

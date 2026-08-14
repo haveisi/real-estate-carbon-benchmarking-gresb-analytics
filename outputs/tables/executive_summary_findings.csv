@@ -1,0 +1,6 @@
+finding,summary
+Workbook structure,"The workbook contains asset, energy, water, waste, emissions factor, benchmark, climate risk, EJ/CEJST, retrofit, and GRESB evidence checklist sheets."
+Asset coverage,The asset master includes 10 unique properties across 1 property types.
+Benchmark coverage,The benchmark dataset includes 10 benchmark records across 2 property types.
+Data center benchmarking,The benchmark data includes 0 data center-related benchmark records for focused carbon and energy-intensity review.
+Highest Site EUI benchmark,"The highest Site EUI benchmark in the dataset is for Multifamily Housing, with a value of 70.0."
