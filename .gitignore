@@ -1,0 +1,63 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm / IDE settings
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and secrets
+.env
+.env.*
+*.env
+secrets.*
+credentials.*
+config.local.*
+
+# Raw data
+# Keep raw source workbooks out of public GitHub unless confirmed safe/public.
+data/raw/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*
+
+# Logs
+*.log
+logs/
+
+# Python build/distribution files
+build/
+dist/
+*.egg-info/
+
+# Test/cache folders
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Large local exports or drafts
+outputs/drafts/
+outputs/temp/
+
+# Power BI files
+# Uncomment if you later add Power BI files and do not want to upload them.
+# *.pbix
+# *.pbit
